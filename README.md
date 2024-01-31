@@ -1,4 +1,4 @@
-Dia 1 - Primeiro Programa em Python
+<h1>Dia 1 - Primeiro Programa em Python</h1>
 
 <ul>
     <li>Criando o famoso "Hello, World!";</li>
