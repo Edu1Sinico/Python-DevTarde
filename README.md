@@ -1,4 +1,6 @@
-Dia 1 - Primeiro Programa em Python
+<h1>Dia 1 - Primeiro Programa em Python</h1>
+
+<h2>Tópicos:</h2>
 
 Iniciando o curso de python em Java
 
