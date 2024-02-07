@@ -2,7 +2,7 @@
 
 <h2>Tópicos:</h2>
 
-Iniciando o curso de python em Java
+Iniciando o curso de Python.
 
 <ul>
     <li>Criando o famoso "Hello, World!";</li>
@@ -18,5 +18,18 @@ Instalação de biblioteca "matplotlib" - biblioteca para criar grádicos.
 No terminal do VS Code:
 
 'py -m pip install matplotlib'
+
+<hr>
+<h1>Dia 2 - Fundamentos da Linguagem Python</h1>
+
+<h2>Tópicos:</h2>
+
+Progredindo com o curso de Python.
+
+<ul>
+    <li>Trabalhar com variáveis;</li>
+    <li>Operadores Básicos;</li>
+    <li>Lista de exercício (Lista básica e avançada)</li>
+</ul>
 
 <hr>
