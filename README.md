@@ -33,3 +33,16 @@ Progredindo com o curso de Python.
 </ul>
 
 <hr>
+<h1>Dia 3 - Estrutura de Controle de Fluxo - Condicionais e Loops</h1>
+
+<h2>Tópicos:</h2>
+
+Inicializando os conceitos de estruturas de repetição ou concioncional.
+
+<ul>
+    <li>Aprender os conceitos de extrutura condicional e exemplos em Python;</li>
+    <li>Aprender os conceitos de extrutura de loops e exemplos em Python;</li>
+    <li>Lista de exercício (Lista básica e avançada)</li>
+</ul>
+
+<hr>

@@ -106,3 +106,35 @@ if (faz_sol == True and tem_chuva == False):
 elif(faz_sol == False and tem_chuva == True):
     print("\nO tempo está chuvoso :'(")
 
+#============================================================================================================
+print("\n===================================================================================\n")
+
+x = int(input("Digite um número: "))
+y = int(input("Digite outro número: "))
+
+if(x % 2 == 0 and y % 2 == 0):
+    print("\nAmbos os números são pares.")
+elif(x % 2 == 0 or y % 2 == 0):
+    print("\nApenas um dos números é par.")
+else:
+    print("\nNenhum dos números são pares.")
+
+#============================================================================================================
+print("\n===================================================================================\n")
+ 
+idade = int(input("Informe sua idade: "))
+
+if(idade >= 18 and idade <= 65):
+    print("\nVocê está dentro da idade correspondente.")
+else:
+    print("\nVocê não está dentro da idade correspondente.")
+
+#============================================================================================================
+print("\n===================================================================================\n")
+
+num = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20)
+
+for item in num:
+    if(item %3 == 0):
+        print(f"Multiplos de três: {item}\n" )
+pass
