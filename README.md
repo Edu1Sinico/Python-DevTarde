@@ -29,7 +29,7 @@ Progredindo com o curso de Python.
 <ul>
     <li>Trabalhar com variáveis;</li>
     <li>Operadores Básicos;</li>
-    <li>Lista de exercício (Lista básica e avançada)</li>
+    <li>Lista de exercício (Lista básica e avançada).</li>
 </ul>
 
 <hr>
@@ -42,7 +42,8 @@ Inicializando os conceitos de estruturas de repetição ou concioncional.
 <ul>
     <li>Aprender os conceitos de extrutura condicional e exemplos em Python;</li>
     <li>Aprender os conceitos de extrutura de loops e exemplos em Python;</li>
-    <li>Lista de exercício (Lista básica e avançada)</li>
+    <li>Correção da lista passada;</li>
+    <li>Projeto em Python.</li>
 </ul>
 
 <hr>

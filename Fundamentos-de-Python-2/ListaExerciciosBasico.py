@@ -1,3 +1,5 @@
+from ctypes.wintypes import PINT
+
 # Exercício 1 
 
 # Soma (a + b).
@@ -8,9 +10,6 @@
 # Resto da Divisão (a % b).
 # Potenciação (a ** b).
 # Declare uma variável para representar o raio de um círculo e calcule sua área usando a fórmula área = π * raio^2. Considere π como 3.14.
-
-from ctypes.wintypes import PINT
-
 
 pi = 3.14
 a = int(input("Digite o 1º número: "))
@@ -38,7 +37,7 @@ else:
 print(f"\nA potência entre {a} e {b} é: {a ** b}")
 print(f"\nA área do circulo de raio {a} é: {pi * (a**2)} \nE a área do circulo de raio {b} é: {pi * (b**2)}")
 
-#============================================================================================================
+# ============================================================================================================
 print("\n===================================================================================\n")
 
 # Exercício 2
@@ -62,7 +61,7 @@ print(f"\nFrase com todas as letras maiúsculas: {frase_upper}")
 print(f"\nFrase com todas as letras minúsculas: {frase_lower}")
 print(f"\nFrase com palavra substituida: {frase_replacement}")
 
-#============================================================================================================
+# ============================================================================================================
 print("\n===================================================================================\n")
 
 # Exercício 3
@@ -74,14 +73,16 @@ print(f"Lista de cores atual: {lista_cores}")
 
 lista_cores.append("Verde")
 lista_cores.append("Laranja")
+# Ou utilizar o método Extend(): lista_cores.extend(["Verde","Laranja"])
 print(f"\nLista de cores adicionadas: {lista_cores}")
 
 # Tupla
 
 tupla_coordenadas = (48.858370,2.294481)
+latitude, longitude = tupla_coordenadas # <--- Declarar variavéis com os elementos da tupla respectivamente.
 print(f"\nCoordenadas da Torre Eiffel: {tupla_coordenadas}")
 
-#============================================================================================================
+# ============================================================================================================
 print("\n===================================================================================\n")
 
 # Exercício 4
@@ -101,12 +102,12 @@ elif(x == 1):
 else:
     print("\npor favor, digite um do números correspondentes!")
 
-if (faz_sol == True and tem_chuva == False):
+if (faz_sol and not tem_chuva):
     print("\nO tempo está bom para uma caminhada :)")
 elif(faz_sol == False and tem_chuva == True):
     print("\nO tempo está chuvoso :'(")
 
-#============================================================================================================
+# ============================================================================================================
 print("\n===================================================================================\n")
 
 x = int(input("Digite um número: "))
@@ -119,7 +120,7 @@ elif(x % 2 == 0 or y % 2 == 0):
 else:
     print("\nNenhum dos números são pares.")
 
-#============================================================================================================
+# ============================================================================================================
 print("\n===================================================================================\n")
  
 idade = int(input("Informe sua idade: "))
@@ -129,12 +130,12 @@ if(idade >= 18 and idade <= 65):
 else:
     print("\nVocê não está dentro da idade correspondente.")
 
-#============================================================================================================
+# ============================================================================================================
 print("\n===================================================================================\n")
 
 num = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20)
 
 for item in num:
-    if(item %3 == 0):
+    if(item %3 == 0 and item %2 != 0):
         print(f"Multiplos de três: {item}\n" )
 pass
