@@ -13,7 +13,7 @@ Iniciando o curso de Python.
 
 Usando Gráficos em Python:
 
-Instalação de biblioteca "matplotlib" - biblioteca para criar grádicos.
+Instalação de biblioteca "matplotlib" - biblioteca para criar gráficos.
 
 No terminal do VS Code:
 
