@@ -48,10 +48,6 @@ Inicializando os conceitos de estruturas de repetição ou concioncional.
 </ul>
 
 <hr>
-<<<<<<< HEAD
-
-=======
->>>>>>> 165c19ddbcd04943efa65eaeba833798eca01409
 <h1>Aula 4 - Estruturas de Dados em Python: Listas, Tuplas, Conjuntos e Dicionários</h1>
 
 <h2>Tópicos:</h2>
@@ -74,7 +70,6 @@ Iniciando a aula sobre "Estrutura de Dados".
    -> Slicing: Permite criar sublistas usando a notação de slicing.
 
 <hr>
-<<<<<<< HEAD
 <h1>Aula 5 - Sem Dados.</h1>
 
 <h2>Tópicos:</h2>
@@ -94,5 +89,3 @@ Iniciando os conceitos de matrizes e a utilização de bibliotecas de python.
     <li>E exemplos de Numpy e Panda;</li>
     <li>Exercícios.</li>
 </ul>
-=======
->>>>>>> 165c19ddbcd04943efa65eaeba833798eca01409
