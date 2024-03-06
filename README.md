@@ -1,4 +1,4 @@
-<h1>Dia 1 - Introdução para Python</h1>
+<h1>Aula 1 - Introdução para Python</h1>
 
 <h2>Tópicos:</h2>
 
@@ -21,7 +21,7 @@ No terminal do VS Code:
 
 
 <hr>
-<h1>Dia 2 - Fundamentos da Linguagem Python</h1>
+<h1>Aula 2 - Fundamentos da Linguagem Python</h1>
 
 <h2>Tópicos:</h2>
 
@@ -34,7 +34,7 @@ Progredindo com o curso de Python.
 </ul>
 
 <hr>
-<h1>Dia 3 - Estrutura de Controle de Fluxo - Condicionais e Loops</h1>
+<h1>Aula 3 - Estrutura de Controle de Fluxo - Condicionais e Loops</h1>
 
 <h2>Tópicos:</h2>
 
