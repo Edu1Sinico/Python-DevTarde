@@ -62,12 +62,12 @@ Iniciando a aula sobre "Estrutura de Dados".
 
 <h2>Operações e Métodos Úteis para uma Lista:</h2>
 
-   -> len(): Retorna o número de elementos na lista.
-   -> append(): Adiciona um elemento ao final da lista.
-   -> pop(): Remove e retorna o último elemento da lista.
-   -> insert(): Insere um elemento em uma posição específica.
-   -> remove(): Remove o primeiro elemento com um valor específico.
-   -> Slicing: Permite criar sublistas usando a notação de slicing.
+   -> len(): Retorna o número de elementos na lista.<br>
+   -> append(): Adiciona um elemento ao final da lista.<br>
+   -> pop(): Remove e retorna o último elemento da lista.<br>
+   -> insert(): Insere um elemento em uma posição específica.<br>
+   -> remove(): Remove o primeiro elemento com um valor específico.<br>
+   -> Slicing: Permite criar sublistas usando a notação de slicing.<br>
 
 <hr>
 <h1>Aula 5 - Sem Dados.</h1>
