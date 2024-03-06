@@ -77,7 +77,7 @@ Iniciando a aula sobre "Estrutura de Dados".
 Sem dados a serem apresentados.
 
 <hr>
-<h1>Aula 6 - Matrizes Matemáticas, Introdução Numpy e Panda.</h1>
+<h1>Aula 6 - Matrizes Matemáticas, Introdução Numpy e Panda</h1>
 
 <h2>Tópicos:</h2>
 
