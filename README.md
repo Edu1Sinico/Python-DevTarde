@@ -48,7 +48,6 @@ Inicializando os conceitos de estruturas de repetição ou concioncional.
 </ul>
 
 <hr>
-<<<<<<< HEAD
 <h1>Aula 4 - Estruturas de Dados em Python: Listas, Tuplas, Conjuntos e Dicionários</h1>
 
 <h2>Tópicos:</h2>
@@ -71,5 +70,3 @@ Iniciando a aula sobre "Estrutura de Dados".
    - Slicing: Permite criar sublistas usando a notação de slicing.
 
 <hr>
-=======
->>>>>>> 40323becaa7aee65d9c8d42061c02e14209f2b63
