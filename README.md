@@ -48,7 +48,7 @@ Inicializando os conceitos de estruturas de repetição ou concioncional.
 </ul>
 
 <hr>
-<<<<<<< HEAD
+
 <h1>Aula 4 - Estruturas de Dados em Python: Listas, Tuplas, Conjuntos e Dicionários</h1>
 
 <h2>Tópicos:</h2>
@@ -63,13 +63,30 @@ Iniciando a aula sobre "Estrutura de Dados".
 
 <h2>Operações e Métodos Úteis para uma Lista:</h2>
 
-   - len(): Retorna o número de elementos na lista.
-   - append(): Adiciona um elemento ao final da lista.
-   - pop(): Remove e retorna o último elemento da lista.
-   - insert(): Insere um elemento em uma posição específica.
-   - remove(): Remove o primeiro elemento com um valor específico.
-   - Slicing: Permite criar sublistas usando a notação de slicing.
+   -> len(): Retorna o número de elementos na lista.
+   -> append(): Adiciona um elemento ao final da lista.
+   -> pop(): Remove e retorna o último elemento da lista.
+   -> insert(): Insere um elemento em uma posição específica.
+   -> remove(): Remove o primeiro elemento com um valor específico.
+   -> Slicing: Permite criar sublistas usando a notação de slicing.
 
 <hr>
-=======
->>>>>>> 40323becaa7aee65d9c8d42061c02e14209f2b63
+<h1>Aula 5 - Sem Dados.</h1>
+
+<h2>Tópicos:</h2>
+
+Sem dados a serem apresentados.
+
+<hr>
+<h1>Aula 6 - Matrizes Matemáticas, Introdução Numpy e Panda.</h1>
+
+<h2>Tópicos:</h2>
+
+Iniciando os conceitos de matrizes e a utilização de bibliotecas de python.
+
+<ul>
+    <li>Vendo os conceitos de matrizes matemáticas;</li>
+    <li>Utilização das bibliotecas Numpy e Panda;</li>
+    <li>E exemplos de Numpy e Panda;</li>
+    <li>Exercícios.</li>
+</ul>
