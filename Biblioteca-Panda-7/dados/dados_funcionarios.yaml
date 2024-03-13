@@ -1,0 +1,116 @@
+funcionarios: 
+  - Nome: Ana
+    idade: 25
+    salario: 3500
+
+  - Nome: João
+    idade: 30
+    salario: 4000
+
+  - Nome: Maria
+    idade: 28
+    salario: 3200
+
+  - Nome: Pedro
+    idade: 35
+    salario: 4500
+
+  - Nome: Carlos
+    idade: 27
+    salario: 3800
+
+  - Nome: Fernanda
+    idade: 32
+    salario: 4200
+
+  - Nome: Rafael
+    idade: 29
+    salario: 3700
+
+  - Nome: Isabela
+    idade: 31
+    salario: 3900
+
+  - Nome: Guilherme
+    idade: 26
+    salario: 3600
+
+  - Nome: Letícia
+    idade: 33
+    salario: 4300
+
+  - Nome: Anderson
+    idade: 24
+    salario: 3400
+
+  - Nome: Júlia
+    idade: 37
+    salario: 4700
+
+  - Nome: Lucas
+    idade: 22
+    salario: 3100
+
+  - Nome: Camila
+    idade: 34
+    salario: 4600
+
+  - Nome: Thiago
+    idade: 28
+    salario: 3300
+
+  - Nome: Beatriz
+    idade: 29
+    salario: 3800
+
+  - Nome: André
+    idade: 26
+    salario: 3600
+
+  - Nome: Larissa
+    idade: 31
+    salario: 4000
+
+  - Nome: Gustavo
+    idade: 30
+    salario: 3900
+
+  - Nome: Carolina
+    idade: 25
+    salario: 3500
+
+  - Nome: Felipe
+    idade: 27
+    salario: 3700
+
+  - Nome: Aline
+    idade: 33
+    salario: 4200
+
+  - Nome: Bruno
+    idade: 32
+    salario: 4100
+
+  - Nome: Renata
+    idade: 29
+    salario: 3800
+
+  - Nome: Marcelo
+    idade: 35
+    salario: 4500
+
+  - Nome: Juliana
+    idade: 28
+    salario: 3400
+
+  - Nome: William
+    idade: 26
+    salario: 3600
+
+  - Nome: Vanessa
+    idade: 30
+    salario: 4000
+
+  - Nome: Thiago
+    idade: 31
+    salario: 4100

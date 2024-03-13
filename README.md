@@ -103,9 +103,9 @@ Utilização da biblioteca Panda.
     <li>Exercícios.</li>
 </ul>
 
-<h2>Por que usar o Pandas?</h2>
+<h2>Por que usar o Panda?</h2>
 
 <p>
-    Facilita a manipulação, análise e limpeza de dados.
+    Facilita a manipulação, análise e limpeza de dados.<br>
     Oferece estruturas de dados poderosas: Series e DataFrame.
 </p>
