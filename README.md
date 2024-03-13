@@ -77,7 +77,7 @@ Iniciando a aula sobre "Estrutura de Dados".
 Sem dados a serem apresentados.
 
 <hr>
-<h1>Aula 6 - Matrizes Matemáticas, Introdução Numpy e Panda</h1>
+<h1>Aula 6 - Matrizes Matemáticas, Introdução ao Numpy</h1>
 
 <h2>Tópicos:</h2>
 
@@ -85,7 +85,27 @@ Iniciando os conceitos de matrizes e a utilização de bibliotecas de python.
 
 <ul>
     <li>Vendo os conceitos de matrizes matemáticas;</li>
-    <li>Utilização das bibliotecas Numpy e Panda;</li>
-    <li>E exemplos de Numpy e Panda;</li>
+    <li>Utilização das bibliotecas Numpy;</li>
+    <li>Exemplos de Numpy;</li>
     <li>Exercícios.</li>
 </ul>
+
+<hr>
+<h1>Aula 7 - Introdução ao Panda</h1>
+
+<h2>Tópicos:</h2>
+
+Utilização da biblioteca Panda.
+
+<ul>
+    <li>Utilização das bibliotecas Panda;</li>
+    <li>Exemplos de Panda;</li>
+    <li>Exercícios.</li>
+</ul>
+
+<h2>Por que usar o Pandas?</h2>
+
+<p>
+    Facilita a manipulação, análise e limpeza de dados.
+    Oferece estruturas de dados poderosas: Series e DataFrame.
+</p>
