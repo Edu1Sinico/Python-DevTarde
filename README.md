@@ -9,7 +9,7 @@ Iniciando o curso de Python.
     <li>Criação de variáveis e operações básicas.</li>
 </ul>
 
-<h2>Exploração Adicional</h2>
+<h3>Exploração Adicional</h3>
 
 Usando Gráficos em Python:
 
@@ -60,7 +60,7 @@ Iniciando a aula sobre "Estrutura de Dados".
     <li>Lista de exercício.</li>
 </ul>
 
-<h2>Operações e Métodos Úteis para uma Lista:</h2>
+<h3>Operações e Métodos Úteis para uma Lista:</h3>
 
    -> len(): Retorna o número de elementos na lista.<br>
    -> append(): Adiciona um elemento ao final da lista.<br>
@@ -103,7 +103,7 @@ Utilização da biblioteca Panda.
     <li>Exercícios.</li>
 </ul>
 
-<h2>Por que usar o Panda?</h2>
+<h3>Por que usar o Panda?</h3>
 
 <p>
     Facilita a manipulação, análise e limpeza de dados.<br>
