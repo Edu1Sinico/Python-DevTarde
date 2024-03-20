@@ -3,22 +3,6 @@ import pandas as pd
 igm_df = pd.read_csv("Biblioteca-Panda-7/dados/igm_modificado.csv")
 ind_des = igm_df['indice_governanca']
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 print("Exibe toda a tabela:\n",igm_df,"\n")
 print("Conta quantas linhas e colunas ela possuí:\n",igm_df.shape,"\n")
 print("Verifica os tipos das colunas:\n",igm_df.info(),"\n")

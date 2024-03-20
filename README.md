@@ -109,3 +109,24 @@ Utilização da biblioteca Panda.
     Facilita a manipulação, análise e limpeza de dados.<br>
     Oferece estruturas de dados poderosas: Series e DataFrame.
 </p>
+
+<hr>
+<h1>Aula 8 - Visualização de dados com Matplotlib e Seaborn</h1>
+
+<h2>Tópicos:</h2>
+
+<ul>
+    <li>Introdução as bibliotecas Matplotlib e Seaborn;</li>
+    <li>Exemplos de Matplotlib e Seaborn;</li>
+    <li>Exercícios de Matplotlib e Seaborn;</li>
+    <li>Projeto em Python.</li>
+</ul>
+
+<h3>Matplotlib:</h3>
+<p>O Matplotlib é uma biblioteca de visualização de dados amplamente utilizada em Python, oferecendo uma<br> variedade de funções para criar gráficos estáticos, como gráficos de linha, gráficos de dispersão, histogramas,<br> gráficos de barras e muito mais. Ele fornece controle detalhado sobre a aparência dos gráficos,<br> permitindo personalização completa.</p>
+
+<h3>Seaborn:</h3>
+
+<p>O Seaborn é uma biblioteca de visualização de dados construída sobre o Matplotlib, que oferece uma interface de<br> alto nível para criar gráficos estatísticos atraentes e informativos. Ele simplifica a criação de<br> gráficos complexos, como mapas de calor, gráficos de distribuição, gráficos de regressão e muito mais. Além<br> disso, o Seaborn integra-se bem com estruturas de dados do Pandas.</p>
+
+<hr>
