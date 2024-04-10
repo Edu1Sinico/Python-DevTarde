@@ -154,7 +154,8 @@ Utilização da biblioteca Panda.
 <h2>Tópicos:</h2>
 <ul>
     <li>Apresentação do curso de Power BI;</li>
-    <li>Manipulação de Dados com o Power BI.</li>
+    <li>Trabalhando com dados no Power BI.</li>
+    <li>Manipulação de dados do Excel com o Power BI</li>
 </ul>
 
 <hr>
