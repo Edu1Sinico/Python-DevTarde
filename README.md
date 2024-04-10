@@ -130,10 +130,31 @@ Utilização da biblioteca Panda.
 <p>O Seaborn é uma biblioteca de visualização de dados construída sobre o Matplotlib, que oferece uma interface de<br> alto nível para criar gráficos estatísticos atraentes e informativos. Ele simplifica a criação de<br> gráficos complexos, como mapas de calor, gráficos de distribuição, gráficos de regressão e muito mais. Além<br> disso, o Seaborn integra-se bem com estruturas de dados do Pandas.</p>
 
 <hr>
-<hr>
 <h1>Aula 9 - Análise de Dados em Python</h1>
 
 <h2>Tópicos:</h2>
 <ul>
     <li>Finalização e apresentação dos projetos em Python;</li>
 </ul>
+
+
+<hr>
+<h1>Aula 10 - Análise de Dados com Imagens</h1>
+
+<h2>Tópicos:</h2>
+<ul>
+    <li>Apresentação do tema de análise de dados com imagens;</li>
+    <li>Biblioteca de imagens com Pillow;</li>
+    <li>Biblioteca de imagens com Opencv </li>
+</ul>
+
+<hr>
+<h1>Aula 11 - Introdução ao Power BI</h1>
+
+<h2>Tópicos:</h2>
+<ul>
+    <li>Apresentação do curso de Power BI;</li>
+    <li>Manipulação de Dados com o Power BI.</li>
+</ul>
+
+<hr>
