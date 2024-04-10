@@ -157,8 +157,8 @@ Iniciando o curso de Power BI do SENAI.
 
 <ul>
     <li>Apresentação do curso de Power BI;</li>
-    <li>Trabalhando com dados no Power BI.</li>
-    <li>Manipulação de dados do Excel com o Power BI</li>
+    <li>Trabalhando com dados no Power BI;</li>
+    <li>Manipulação de dados do Excel com o Power BI.</li>
 </ul>
 
 <hr>
