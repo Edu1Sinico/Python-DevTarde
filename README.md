@@ -152,7 +152,9 @@ Utilização da biblioteca Panda.
 <h1>Aula 11 - Introdução ao Power BI</h1>
 
 <h2>Tópicos:</h2>
-Iniciando o curso de Power BI do SENAI.<br>
+
+Iniciando o curso de Power BI do SENAI.
+
 <ul>
     <li>Apresentação do curso de Power BI;</li>
     <li>Trabalhando com dados no Power BI.</li>
