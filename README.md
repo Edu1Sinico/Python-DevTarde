@@ -153,12 +153,23 @@ Utilização da biblioteca Panda.
 
 <h2>Tópicos:</h2>
 
-Iniciando o curso de Power BI do SENAI.
+Iniciando o curso de Power BI no SENAI.
 
 <ul>
     <li>Apresentação do curso de Power BI;</li>
     <li>Trabalhando com dados no Power BI;</li>
     <li>Manipulação de dados do Excel com o Power BI.</li>
+</ul>
+
+<hr>
+<h1>Aula 12 - Conceitos em Power BI</h1>
+<h2>Tópicos:</h2>
+
+Vendo alguns conceitos de Power BI no SENAI
+
+<ul>
+    <li>Observando alguns conceitos de Power BI;</li>
+    <li>Trabalhando com dados no Power BI.</li>
 </ul>
 
 <hr>
