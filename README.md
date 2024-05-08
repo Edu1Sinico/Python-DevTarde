@@ -173,3 +173,21 @@ Vendo alguns conceitos de Power BI no SENAI
 </ul>
 
 <hr>
+<h1>Aula 13 - Sem Dados.</h1>
+
+<h2>Tópicos:</h2>
+
+Sem dados a serem apresentados.
+
+<hr>
+<h1>Aula 14 - Relações entre modelos</h1>
+<h2>Tópicos:</h2>
+
+Realizando a relação entre modelos de tabelas.
+<ul>
+    <li>Realizando a relação entre modelos de tabelas;</li>
+    <li>Realizando alguns códigos em PowerBI;</li>
+    <li>Estilizando tabelas e gráficos.</li>
+</ul>
+
+<hr>
