@@ -184,6 +184,7 @@ Sem dados a serem apresentados.
 <h2>Tópicos:</h2>
 
 Realizando a relação entre modelos de tabelas.
+
 <ul>
     <li>Realizando a relação entre modelos de tabelas;</li>
     <li>Realizando alguns códigos em PowerBI;</li>
@@ -191,3 +192,7 @@ Realizando a relação entre modelos de tabelas.
 </ul>
 
 <hr>
+<h1>Aula 15 - Realização do Projeto de Power BI</h1>
+<h2>Tópicos:</h2>
+
+Realizando Realização do Projeto de Power BI.
