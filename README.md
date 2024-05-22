@@ -197,6 +197,7 @@ Realizando a relação entre modelos de tabelas.
 
 Realizando Realização do Projeto de Power BI.
 
+<hr>
 <h1>Aula 16 - Retornando com as aulas de Python</h1>
 <h2>Tópicos:</h2>
 
