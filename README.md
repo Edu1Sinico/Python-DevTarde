@@ -196,3 +196,14 @@ Realizando a relação entre modelos de tabelas.
 <h2>Tópicos:</h2>
 
 Realizando Realização do Projeto de Power BI.
+
+<h1>Aula 16 - Retornando com as aulas de Python</h1>
+<h2>Tópicos:</h2>
+
+Realização de exercícios em Jupiter com arquivo json.
+
+<ul>
+    <li>Análise de dados de supermercado com python;</li>
+    <li>Realização de métodos para cálculos de lucros e faturamentos em python;</li>
+    <li>Criação de gráficos com os dados apresentados.</li>
+</ul>
